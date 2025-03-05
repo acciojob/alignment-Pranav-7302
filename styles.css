@@ -10,11 +10,40 @@ td{
     height: 50px;
     width: 100px ;
 }
-
+#table-1 td{
+    height: 20px;
+    width: 500px;
+    padding: 10px;
+    font-size: larger;
+}
+#table-2{
+    margin-top: 50px;
+}
+#table-2 td{
+    height: 20px;
+    width: 500px;
+    padding: 10px;
+    font-size: larger;
+}
+#table-3{
+    margin-top: 50px;
+}
+#table-3 td{
+    height: 20px;
+    width: 500px;
+    padding: 10px;
+    font-size: larger;
+}
 
 .green{
     background-color: green;
 }
 .blue{
     background-color: blue;
+}
+.right{
+    text-align: right;
+}
+.center{
+    text-align: center;
 }
