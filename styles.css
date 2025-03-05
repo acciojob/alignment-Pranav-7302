@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.heading{
+    text-align: center;
+}
+table,tr,td{
+    padding: 1px;
+    border: 1px solid black;
+}
+td{
+    height: 50px;
+    width: 100px ;
+}
+
+
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
